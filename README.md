@@ -42,8 +42,8 @@ O protótipo do aplicativo pode ser acessado no link abaixo:
 ---
 
 ### 1.4. Backlog  
-#### 📌 ** GitHub Projects:** O gerenciamento das atividades será realizado via **Projects** neste repositório do GitHub.  
-[Projects]([https://github.com/users/RogerioLacerdaGH/projects/2/views/1])(https://github.com/users/RogerioLacerdaGH/projects/2/views/1)
+#### 📌 **GitHub Projects:** O gerenciamento das atividades será realizado via **Projects** neste repositório do GitHub.  
+Link: [https://github.com/orgs/Friends-Run/projects/1](https://github.com/orgs/Friends-Run/projects/1)
 ---
 Abaixo estão as **estórias do usuário** baseadas nas funcionalidades principais do aplicativo:  
 
